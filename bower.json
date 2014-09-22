@@ -1,0 +1,12 @@
+{
+	"author": "Google",
+	"name": "wx-google-code-prettify-lite",
+	"description": "google prettify lib",
+	"version": "0.0.1",
+	"homepage": "https://github.com/wixo/google-code-prettify-lite",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/wixo/google-code-prettify-lite"
+	},
+	"main": "./prettify.js"
+}
